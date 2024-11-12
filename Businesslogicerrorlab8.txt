@@ -1,0 +1,12 @@
+Insufficient workflow validation
+
+Credentials
+wiener: peter
+
+End goal
+Checkout the leather jacket 
+
+Analysis 
+1.Login as wiener user 
+2. Add jacket to cart 
+3.Checkout the jacket 
